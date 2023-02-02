@@ -1,2 +1,3 @@
 .env
 /nginx_conf/certs/*.pem
+/mariadb_data/data
