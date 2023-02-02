@@ -1,7 +1,7 @@
 # Custom CMS with Docker and Bitnami LEMP Stack
 A simplified yet refined Docker Compose workflow that sets up a LEMP network of containers for local PHP with MySQL (MariaDB) development.
 
-# Blueprint of the application: https://whimsical.com/cms-with-php-mysql-6orQGRGrWyvhAK7kAweQaj
+- Blueprint of the application: [Whimsical] (https://whimsical.com/cms-with-php-mysql-6orQGRGrWyvhAK7kAweQaj)
 
 
 ## Usage
